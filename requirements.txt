@@ -4,3 +4,4 @@ scikit_learn==0.20.1
 scipy==0.18.1
 pandas==0.22.0
 Template==0.5.1
+linear-regression==0.1
